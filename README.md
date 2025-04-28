@@ -2,8 +2,6 @@
 # Unity 3D - First Person Shooter game
 <br>Made in Unity: 2021.3.5f1
 
-<br>Unity 3D - First Person Shooter game - https://youtu.be/xiVQJyfHhlM     (25/06/2023)
-
 
 <br><code>In this game you will find:</code>
 
